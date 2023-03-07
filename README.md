@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desde Argentina, aprendiendo dia a dia programacion.<br>Dedicado al Front-End.
+HOLA !! Soy Sebastian Perez "Estudiante de Desasrrollo Web" dedicado al Front-End. <br> Mi carrera empezo como empleado gastronomico, hasta que decidi adentrarme en el mundo de la programacion y ahora estoy utilizando los conocimientos que adquiri con mis estudios, para introducirme en el mundo de la tecnologia la cual me apasiona desde hace años.
 
 
 ## 🌐 Socials:
